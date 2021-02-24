@@ -1,3 +1,7 @@
+# THIS PROJECT HAS BEEN ARCHIVED!
+
+Please visit the new active repository with LibreELEC 9.2 branch for Amlogic devices: [dtechsrv/LibreELEC-AML](https://github.com/dtechsrv/LibreELEC-AML).
+
 # LibreELEC - OTT Meson 8* + GXL Edition
 
 Unofficial community sources and firmware binaries for some Amlogic S805/S812 and S905x based devices.
